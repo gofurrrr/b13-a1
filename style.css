@@ -51,3 +51,13 @@ nav .menu .btn{
     color: #FFFFFF;
     border: 0px;
 }
+
+/* banner */
+
+.banner{
+    background-image: url(assets/hero-bg.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
