@@ -19,7 +19,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 1600px ;
+    max-width: 1800px ;
     /* height: 92px; */
     width: 100%;
 }
@@ -30,7 +30,7 @@ nav{
     gap: 32px;
     align-items: center;
     justify-content: space-between;
-     margin-left: 700px; 
+     /* margin-left: 700px;  */
     
 }
 
@@ -38,6 +38,7 @@ nav .menu a{
     text-decoration: none;
     font-size: 16px;
     color: #000000; 
+    margin-left: 200px; 
     
 }
 nav .menu .btn{
@@ -58,6 +59,7 @@ nav .menu .btn{
     color: #FFFFFF;
     border: 0px;
     cursor: pointer;
+    
     
 }
 
@@ -267,3 +269,25 @@ h1{
 #early-ac .discription .p-fix{
     padding-bottom: 200px;
 }
+
+.footer-imgs{
+    background-color:#001931 ;
+    padding: 120px 120px 165px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-imgs p{
+    color: #FFFFFF;
+    font-size: medium;
+    font-weight: 20px;
+}
+
+.end-info{
+    padding: 30px 120px 30px 120px;
+    background-color: #001931;
+    color: #FAFAFA;
+    text-align: center;
+}
+
+
